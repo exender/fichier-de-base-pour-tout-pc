@@ -1,6 +1,1 @@
-Ajoutez un fichier read me  pour tous type pour git 
-
-
-
-
-LINK DE MON GITHUB: https://github.com/exender
+ADD d'un fichier read me pour git ou une app 
