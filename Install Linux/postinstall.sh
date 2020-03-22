@@ -13,7 +13,7 @@ do
     echo ""
     PROGRAM_NAME=`basename $SCRIPT`
     PROGRAM_NAME=${PROGRAM_NAME%.*}
-    read -p "est ce que vous voulez installez ceci${PROGRAM_NAME}? " choice
+    read -p "est ce que vous voulez installez ceci ${PROGRAM_NAME}? " choice
     case "$choice" in 
         [yY][eE][sS]|[yY] )
             eval $SCRIPT
