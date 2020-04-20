@@ -1,1 +1,1 @@
-ADD d'un fichier read me pour git ou une app 
+Pour lancer le post install de Linux lancer le fichier postinstall.sh dans un Terminal 
